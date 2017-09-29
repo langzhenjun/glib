@@ -1,4 +1,4 @@
-package glib
+package utils
 
 import (
 	"fmt"
